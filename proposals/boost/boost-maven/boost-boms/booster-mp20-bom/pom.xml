@@ -51,7 +51,7 @@
 			</dependency>
 			<dependency>
 				<groupId>boost.boosters</groupId>
-				<artifactId>mpRestClient</artifactId>
+				<artifactId>mpJWT</artifactId>
 				<version>0.2-SNAPSHOT</version>
 				<scope>provided</scope>
 			</dependency>

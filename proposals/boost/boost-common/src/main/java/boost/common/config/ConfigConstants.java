@@ -100,12 +100,13 @@ public final class ConfigConstants {
     public static final String JDBC_43 = "jdbc-4.3";
     public static final String JPA_21 = "jpa-2.1";
     public static final String JPA_22 = "jpa-2.2";
-    public static final String CDI_20 = "cdi-2.0";
-    public static final String MPHEALTH_10 = "mpHealth-1.0";
-    public static final String MPRESTCLIENT_11 = "mpRestClient-1.1";
     public static final String JSONP_11 = "jsonp-1.1";
+    public static final String CDI_20 = "cdi-2.0";
     public static final String MPCONFIG_13 = "mpConfig-1.3";
+    public static final String MPHEALTH_10 = "mpHealth-1.0";
+    public static final String MPJWT_11 = "mpjwt-1.1";
     public static final String MPOPENTRACING_11 = "mpOpenTracing-1.1";
+    public static final String MPRESTCLIENT_11 = "mpRestClient-1.1";
 
     public static final String SHARED_RESOURCES_DIR = "${shared.resource.dir}";
     public static final String SERVER_OUTPUT_DIR = "${server.output.dir}";
